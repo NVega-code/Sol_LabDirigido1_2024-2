@@ -1,5 +1,5 @@
 // Lab1_2024-2.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
-//
+// ayudaaaaa
 
 #include <iostream>
 const int MAX = 16;
